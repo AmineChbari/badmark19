@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chbari Amine
 - 👀 I’m interested in CS, Travel and Gym.
-- 🌱 I’m currently learning web developement.
+- 🌱 I’m currently a third year computer science student at Universite of Lille.
 - 📫 How to reach me on Instagram: badmark19
 
 <!---
